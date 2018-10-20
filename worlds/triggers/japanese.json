@@ -137,7 +137,7 @@
     "action": "PlayDuelEffect()"
   },
   {
-    "trigger": "メインフェイズ1開始",
+    "trigger": "メインフェイズ１開始",
     "action": "PlayDuelMain()",
     "omit": 1
   },
@@ -192,7 +192,7 @@
     "action": "PlayDuelFacedown()"
   },
   {
-    "trigger": "メインフェイズ2開始",
+    "trigger": "メインフェイズ２開始",
     "action": "PlayDuelMain()",
     "omit": 1
   },
