@@ -336,7 +336,7 @@
     "action": "PlayChallengeVictory(\"%0\")"
   },
   {
-    "trigger": "サイコロの結果: *",
+    "trigger": "サイコロの結果： *",
     "action": "PlayDuelDice()"
   },
   {
