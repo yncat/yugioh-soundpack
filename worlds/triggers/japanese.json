@@ -291,7 +291,7 @@
     "action": "PlayLoseLifepoints(\"%2\", \"%3\")"
   },
   {
-    "trigger": "*‚ÌLP‚ª * ‘‰Á‚µ‚Ü‚µ‚½Ac‚è *",
+    "trigger": "*‚ÌLP‚ª * ‘‰Á‚µ‚Ü‚µ‚½AŒ»İ *",
     "action": "PlayEarnLifepoints(\"%2\", \"%3\")"
   },
   {
